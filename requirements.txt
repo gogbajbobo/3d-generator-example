@@ -1,0 +1,2 @@
+porespy==1.2.0
+numpy-stl==2.11.2
