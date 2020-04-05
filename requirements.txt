@@ -1,5 +1,2 @@
 porespy
 numpy-stl
-matplotlib
-scikit-image
-numpy
