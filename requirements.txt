@@ -1,2 +1,5 @@
-porespy==1.2.0
-numpy-stl==2.11.2
+porespy
+numpy-stl
+matplotlib
+scikit-image
+numpy
